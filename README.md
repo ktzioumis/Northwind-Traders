@@ -2,6 +2,9 @@
 
 For this project, we'll be working with the Northwind database--a free, open-source dataset created by Microsoft containing data from a fictional company. Queries will be made using the python library SQlite3 Here's the schema for the Northwind database:
 
+more about this project on Medium.com<br>
+https://medium.com/analytics-vidhya/pandas-sql-and-t-tests-254af4ed82b2
+
 ## Northwind Traders Database - ERD
 
 <img src='Northwind_ERD.png'>
